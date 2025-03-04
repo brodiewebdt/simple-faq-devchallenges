@@ -34,6 +34,7 @@
   --spacing-24: 1.5rem;
 
   --spacing-48: 4rem;
+  --spacing-60: 3.75rem;
   --spacing-80: 5rem;
 }
 
@@ -173,14 +174,14 @@ li:not(:last-child) {
 /***** Header Styles *****/
 .header {
   background-color: var(--color-neutral-100);
-  padding: var(--spacing-80) 0;
+  padding-block: var(--spacing-60);
   text-align: center;
 }
 
 /***** FAQS Styles *****/
 .faqs {
   background-color: var(--color-neutral-200);
-  padding-block: var(--spacing-80);
+  padding-block: var(--spacing-60);
 }
 
 .faq {
