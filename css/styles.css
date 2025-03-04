@@ -182,7 +182,7 @@ li:not(:last-child) {
 /***** FAQS Styles *****/
 .faqs {
   background-color: var(--color-neutral-200);
-  padding-block: var(--spacing-60);
+  padding-block: var(--spacing-70);
 }
 
 .faq {
